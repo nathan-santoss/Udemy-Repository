@@ -1,0 +1,9 @@
+Exercício 1 – Pessoa com hobbies
+
+Crie um objeto pessoa com as propriedades: nome, idade e hobbies (array de strings).
+
+Crie um getter chamado info que retorne uma string mostrando o nome, idade e todos os hobbies.
+
+Crie um setter chamado novoHobby que adicione um hobby ao array somente se ele ainda não existir.
+
+Teste adicionando alguns hobbies e acessando o getter para conferir a informação completa.
