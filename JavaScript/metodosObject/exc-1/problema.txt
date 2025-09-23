@@ -1,0 +1,8 @@
+Você tem um objeto chamado turma com vários alunos, onde cada aluno é 
+uma propriedade e o valor é um objeto com nome, idade e nota. Use métodos para:
+
+Listar todas as chaves (nomes dos alunos) e todos os valores (dados dos alunos).
+
+Filtrar apenas os alunos que têm nota maior ou igual a 7 e criar um novo objeto só com esses alunos.
+
+Descobrir quantos alunos passaram e mostrar os nomes deles.
